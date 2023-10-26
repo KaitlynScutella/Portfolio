@@ -1,5 +1,5 @@
  body {
-                background: #D6DDF6;
+                background: #ba55d3;
                 font-family: "Lucida Console", "Courier New", monospace;
             }
             
@@ -11,9 +11,43 @@
             
             img#PSB {width:10%;}
             
+            img#grad {width:40%; height:40%}
+            
+            img#az{width:50%; height: 50%}
+            
+            img#philly {width:50%; height: 30%}
+            
+            img#ny {width:50%; height: 50%}
+            
+            img#game {width:50%; height: 50%}
+            
+            img#sv {width:50%; height: 50%}
+            
+            img#tops {width:50%; height: 50%}
+            
+            img#va {width:30%; height: 30%}
+            
             section{
-            background: coral;
+            background: pink;
             width:80%;
             margin:auto;
             }
- 
+
+            h1 {color: black; 
+            font-size: xx-large;
+            font-family: arial, helvetica, sans-serif;
+}
+            h2 {
+            color: orange;
+            font-family: "Lucida Handwriting", cursive;
+            }
+            
+            p {color: brown;
+            font-family: western, fantasy;
+            font-size: x-large; 
+            }
+            
+            ul {color: brown;
+            font-family: western, fantasy;
+            font-size: x-large;
+            }
